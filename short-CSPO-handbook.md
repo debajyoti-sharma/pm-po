@@ -34,7 +34,7 @@ Product levels:
 
 **Example (Mobile):** Core benefit is communication.
 
-`![Product Levels Pyramid](cspo_product_levels_pyramid.png)`
+![Product Levels Pyramid](cspo_product_levels_pyramid.png)
 
 ---
 
@@ -43,7 +43,7 @@ Product levels:
 ### Product lifecycle
 Idea → Creation → Introduction → Growth → Maturity → Retirement
 
-`![Product Lifecycle](cspo_product_lifecycle.png)`
+![Product Lifecycle](cspo_product_lifecycle.png)
 
 ### Project vs Product
 | Project | Product |
@@ -189,7 +189,7 @@ Common methods:
 
 ## Persona (example graphic retained)
 
-`![Persona Canvas](cspo_persona_canvas.png)`
+![Persona Canvas](cspo_persona_canvas.png)
 
 ---
 
@@ -208,7 +208,7 @@ Value Map:
 
 Fit = value proposition addresses most significant pains and gains.
 
-`![Value Proposition Canvas](cspo_value_proposition_canvas.png)`
+![Value Proposition Canvas](cspo_value_proposition_canvas.png)
 
 ---
 
@@ -241,7 +241,7 @@ THAT <key benefit>
 UNLIKE <alternative>
 OUR PRODUCT <differentiator>
 
-`![Product Vision Board](cspo_product_vision_board.png)`
+![Product Vision Board](cspo_product_vision_board.png)
 
 ---
 
